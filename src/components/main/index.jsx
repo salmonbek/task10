@@ -7,13 +7,13 @@ const Main = () => {
           <div className="main">
             <h4>New Arrival</h4>
             <h1>
-              Discover Our <br /> New Collection
+              Discover Our <br /> New collection
             </h1>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut <br />{" "}
-              elit tellus, luctus nec ullamcorper mattis.
+              Lorem impsum dolor sit amet, consectetur adipiscing elit. Ut{" "}
+              <br /> elit tellus, luctus nec ullamcorper mattis.
             </p>
-            <button className="buy">BUY Now</button>
+            <button className="buy">Buy now</button>
           </div>
         </div>
       </main>
